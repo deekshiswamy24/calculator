@@ -9,11 +9,11 @@
   To made this simple calculator-
   First ,I created a GUI window using tk() method and using
   Some tkinter elements called widgets-
-  --> Buttons
-  --> Label
-  --> entry
-  --> Text
+  1.Buttons
+  2.Label
+  3.entry
+  4.Text
   Some geomentry manager classes-
-  --> pack() method
-  --> place() method 
+  1.pack() method
+  2.place() method 
    created the interface and  mainloop() method  to run the application untill window closes.
